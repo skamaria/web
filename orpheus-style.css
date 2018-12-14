@@ -1,4 +1,4 @@
-﻿a:active,
+a:active,
 a:focus,
 button:active,
 button:focus,
@@ -8,7 +8,7 @@ select:active,
 select:focus,
 textarea:active,
 textarea:focus {
-  outline:0
+  outline: 0;
 }
 
 #content>.thin,
@@ -16,23 +16,23 @@ textarea:focus {
 .box2,
 .main_column,
 .sidebar {
-  overflow:hidden
+  overflow: hidden;
 }
 
 .clear:after,
 .profileinfo:before {
-  content:''
+  content: '';
 }
 
 #menu>ul a,
 .nobr {
-  white-space:nowrap
+  white-space: nowrap;
 }
 
 #covers .stats .remove,
 .add_bookmark,
 .sidebar {
-  float:right
+  float: right;
 }
 
 .tooltipster-default .tooltipster-content,
@@ -47,12 +47,12 @@ h6,
 input,
 select,
 textarea {
-  font-family:open sans,Helvetica,Arial,Tahoma,microsoft yahei,sans-serif
+  font-family: 'Open Sans', Helvetica, Arial, Tahoma, "Microsoft Yahei", sans-serif;
 }
 
 #header ul,
 .poll {
-  list-style:none
+  list-style: none;
 }
 
 .body img,
@@ -62,36 +62,36 @@ textarea {
 .profileinfo:not(.head) img,
 .wiki_article img,
 form table td.label {
-  vertical-align:middle
+  vertical-align: middle;
 }
 
 @font-face {
-  font-family:open sans;
-  font-style:normal;
-  font-weight:400;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
   src:local('Open Sans'),local('OpenSans'),url
 (https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype')
 }
 
 @font-face {
-  font-family:open sans;
-  font-style:normal;
-  font-weight:600;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
   src:local('Open Sans Semibold'),local('OpenSans-Semibold'),url
 (https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype')
 }
 
 * {
-  box-sizing:inherit
+  box-sizing: inherit;
 }
 
 body {
-  margin:0 8px;
-  box-sizing:border-box;
-  line-height:1.6;
-  font-size:12px;
-  color:#c6c9c9;
-  background-color:#212328
+  background-color: #212328;
+  box-sizing: border-box;
+  color: #c6c9c9;
+  font-size: 12px;
+  line-height: 1.6;
+  margin: 0 8px;
 }
 
 h1,
@@ -100,11 +100,11 @@ h3,
 h4,
 h5,
 h6 {
-  margin:8px 0;
-  max-width:100%;
-  font-weight:400;
-  line-height:normal;
-  color:#f0f0f0
+  color: #f0f0f0;
+  font-weight: 400;
+  line-height: normal;
+  margin: 8px 0;
+  max-width: 100%;
 }
 
 h1 a,
@@ -404,7 +404,7 @@ strong.important_text_alt {
 
 #wrapper {
   margin:auto;
-  max-width:1020px;
+  max-width:920px;
   display:flex;
   flex-direction:column;
   align-items:stretch
