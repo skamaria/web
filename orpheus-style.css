@@ -113,122 +113,123 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color:#83e4a6
+  color: #83e4a6;
 }
 
 h1,
 h2 {
-  font-size:23px
+  font-size: 23px;
 }
 
 h3,
 h4 {
-  font-size:18px
+  font-size: 18px;
 }
 
 h4,
 h5 {
-  font-size:16px
+  font-size: 16px;
 }
 
 a {
-  color:#f0f0f0;
-  text-decoration:none
+  color: #f0f0f0;
+  text-decoration: none;
 }
 
 a:hover {
-color:#c7fada
+color: #c7fada;
 }
 
 b,
 strong {
-  font-weight:600
+  font-weight: 600;
 }
 
 ol,
 ul {
-  margin:12px;
-  padding-left:16px
+  margin: 12px;
+  padding-left: 16px;
 }
 
 ol.nobullet,
 ul.nobullet {
-  list-style-type:none
+  list-style-type: none;
 }
 
 li {
- margin-bottom:4px
+ margin-bottom: 4px;
 }
 
 li:last-child {
-  margin-bottom:0
+  margin-bottom: 0;
 }
 
 blockquote {
-  margin:12px;
-  padding:12px;
-  border:1px dashed rgba(255,255,255,.25);
-  background-color:#33363d
+  margin: 12px;
+  padding: 12px;
+  border: 1px dashed rgba(255,255,255,.25);
+  background-color: #33363d;
 }
 
 ::selection {
-  color:#fff;
-  background-color:rgba(105,217,146,.6)
+  color: #fff;
+  background-color:rgba(105,217,146,.6);
 }
 
 ::-moz-selection {
-  color:#fff;
-  background-color:rgba(105,217,146,.6)
+  color: #fff;
+  background-color: rgba(105,217,146,.6);
 }
 
 table,
 table .rowa:nth-child(even),
 table .rowb:nth-child(even) {
-  background-color:#2b2d33
+  background-color: #2b2d33;
 }
 
 table {
-  margin:8px 0;
-  width:100%;
-  border-collapse:collapse
+  margin: 8px 0;
+  width: 100%;
+  border-collapse: collapse;
 }
 
 table .rowa,
 table .rowb {
-  border-top:2px solid #26282e
+  border-top: 2px solid #26282e;
 }
 
 table .rowa:nth-child(odd),
 table .rowb:nth-child(odd) {
-  background-color:#33363d
+  background-color: #33363d;
 }
 
 table ul.options_list {
-  margin:0;
-  padding:0
+  margin: 0;
+  padding: 0;
 }
 
 .colhead,
 .colhead_dark {
-  background-color:#3b3f47;
-  line-height:18px
+  background-color: #3b3f47;
+  line-height: 18px;
 }
 
 .colhead td,
 .colhead_dark td {
-  padding-top:12px;
-  padding-bottom:12px}
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
 
 .colhead td.sign,
 .colhead_dark td.sign {
-  text-align:center!important
+  text-align: center!important;
 }
 
 .colhead td.sign .tooltip,
 .colhead_dark td.sign .tooltip {
-  display:inline;
-  max-height:13px;
-  max-width:13px
+  display: inline;
+  max-height: 13px;
+  max-width: 13px;
 }
 
 td {
