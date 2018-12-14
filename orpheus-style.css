@@ -404,7 +404,7 @@ strong.important_text_alt {
 
 #wrapper {
   margin:auto;
-  max-width:920px;
+  max-width:1020px;
   display:flex;
   flex-direction:column;
   align-items:stretch
