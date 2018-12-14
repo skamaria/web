@@ -1394,90 +1394,91 @@ margin:0
 }
 
 #wiki .navigation_list {
-  margin:0;
-  padding:0
+  margin: 0;
+  padding: 0;
 }
 
 #wiki .box_info ul {
-  margin:0
+  margin: 0;
 }
 
 #rules #content .thin .header p {
-  display:block;
-  margin:0 0 8px;
-  width:100%
+  display: block;
+  margin: 0 0 8px;
+  width: 100%;
 }
 
 .profileinfo img {
-  max-width:100%
+  max-width: 100%;
 }
 
 #user .box>.head {
-  height:auto!important
+  height: auto!important;
 }
 
 #user .box>.head span[style='float: left;']:first-child {
-  float:none!important
+  float: none!important;
 }
 
 #user .avatar_container img {
-  max-height:400px;
-  max-width:150px
+  max-height: 400px;
+  max-width: 150px;
 }
 
 #user #userform {
-  background-color:transparent;
-  width:calc(100% - 248px)
+  background-color: transparent;
+  width:calc(100% - 248px);
 }
 
 #userform #settings_sections h2 {
-  line-height:1.6;
-  font-size:12px
+  line-height: 1.6;
+  font-size: 12px;
 }
 
 #userform #settings_sections h2 a:hover {
-  color:#c7fada
+  color: #c7fada;
 }
 
 #userform #settings_sections input {
-  margin-top:8px
+  margin-top: 8px;
 }
 
 #dnulist tr:not(.colhead):not(.colhead_dark):nth-child(even) {
-  background-color:#2b2d33
+  background-color: #2b2d33;
 }
 
 #dnulist tr:not(.colhead):not(.colhead_dark):nth-child(odd) {
-  background-color:#33363d
+  background-color: #33363d;
 }
 
 #menu>ul a:hover,
 #userinfo_minor:hover a:hover,
 #userinfo_username:hover a:hover {
-  background-color:rgba(255,255,255,.2)
+  background-color: rgba(255,255,255,.2);
 }
 
 #torrents .filter_torrents .ft_submit {
-  display:-ms-flexbox;
-  display:flex;
-  -ms-flex-flow:row nowrap;
-  flex-flow:row nowrap
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
 }
 
 #torrents .filter_torrents .ft_submit input {
-  margin-right:4px
+  margin-right: 4px;
 }
 
 #torrents .filter_torrents .ft_submit span {
-  -ms-flex-order:2;order:2
+  -ms-flex-order: 2;
+  order: 2;
 }
 
 #votes {
-  position:relative
+  position: relative;
 }
 
 .album_votes {
-  line-height:normal
+  line-height: normal;
 }
 
 #collages.collage_table .colhead td:last-child,
