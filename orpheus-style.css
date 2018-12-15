@@ -646,13 +646,13 @@ table.box2 {
 
 .linkbox,
 .linkbox .center {
-  text-align:right
+  text-align: right;
 }
 
 #userinfo_major>li,
 #userinfo_stats>li,
 .linkbox .brackets {
-  margin-left:8px
+  margin-left: 8px;
 }
 
 #userinfo_major,
