@@ -1,22 +1,101 @@
-@font-face{font-family:'Wingdings3';src:url(/styles/custom/images/fonts/Wingdings3-webfont.eot?) format('eot'),
-url(/styles/custom/images/fonts/Wingdings3-webfont.woff) format('woff'),
-url(/styles/custom/images/fonts/Wingdings3-webfont.ttf)  format('truetype'),
-url(/styles/custom/images/fonts/Wingdings3-webfont.svg#svgWingdings3) format('svg')}.sign{font-family:Wingdings3;font-size:15pt;font-weight:bold}.sign
-a{font-family:Wingdings3;text-decoration:none;font-size:15pt}.sign a:hover{font-family:Wingdings3;text-decoration:none}.cats_applications{width:28px;height:28px;background:url('/styles/layer_cake/images/apps.png') no-repeat center center}.cats_audiobooks{width:28px;height:28px;background:url('/styles/layer_cake/images/audiobook.png') no-repeat center center}.cats_comedy{width:28px;height:28px;background:url('/styles/layer_cake/images/comedy.png') no-repeat center center}.cats_ebooks{width:28px;height:28px;background:url('/styles/layer_cake/images/ebook.png') no-repeat center center}.cats_musicvideos{width:28px;height:28px;background:url('/styles/layer_cake/images/musicvideos.png') no-repeat center center}.cats_libblemixtapes{width:28px;height:28px;background:url('/styles/layer_cake/images/mixtapes.png') no-repeat center center}.cats_music{width:28px;height:28px;background:url('/styles/layer_cake/images/music.png') no-repeat center center}*{padding:0em;margin:0em}html{width:100%}body{width:100%;background-color:#E2E2E2;font-family:tahoma,helvetica,sans-serif;font-size:8pt;color:#000;min-width:870px}a{text-decoration:none;border:none;color:#444}a:hover{text-decoration:underline;color:#555}h1,h2,h3,h4{margin:5px
-0px;font-weight:bold}h2{text-align:center;font-size:12pt}h4{font-size:8pt}p{margin:10px
-5px}li{margin:5px
-15px}input{padding:2px
-3px}textarea{padding:2px
-3px}img{border:none}.r00{color:#F00}.r01{color:#FF1300}.r02{color:#FF1300}.r03{color:#FF2600}.r04{color:#FF4C00}.r05{color:#FF5E00}.r06{color:#FF5E00}.r07{color:#FF7100}.r08{color:#FF9700}.r09{color:#FA0}.r10{color:#74C42E}.r20{color:#418B00}.r50{color:#418B00}.r99{color:#418B00}span.size1{font-size:0.75em}span.size2{font-size:1em}span.size3{font-size:1.25em}span.size4{font-size:1.5em}span.size5{font-size:1.75em}span.size6{font-size:2em}span.size7{font-size:2.25em}span.size8{font-size:2.5em}span.size9{font-size:2.75em}span.size10{font-size:3em}ul.thin{margin:0px
-0px 0px 25px;padding:0px}ul.thin
-li{margin:0px
-0px;padding:0px}#header{width:100%;padding:0px
-0 0 0;background:#CCC}#content{margin:auto;margin-top:100px;width:95%;overflow:hidden}#footer{margin-top:40px;width:100%;text-align:center;padding:1em
-0}#logo{width:344px;height:197px;background:url('https://static.libble.me/styles/layer_cake/images/logo.png') no-repeat top left;margin:0
-auto}#logo
-a{font-size:0pt;border:none;width:344px;height:197px;display:block}#logo a:hover{border:none}#menu{position:absolute;top:226px;width:100%;padding:0.6em 0;text-align:center;background-color:#666;font-size:10pt}#menu ul
-li{display:inline}#menu ul li
-a{padding:0.3em 1.0%;color:#ccc}#menu ul li
+@font-face {
+  font-family:'Wingdings3';
+  src:url(/styles/custom/images/fonts/Wingdings3-webfont.eot?) format('eot'),
+      url(/styles/custom/images/fonts/Wingdings3-webfont.woff) format('woff'),
+      url(/styles/custom/images/fonts/Wingdings3-webfont.ttf)  format('truetype'),
+      url(/styles/custom/images/fonts/Wingdings3-webfont.svg#svgWingdings3) format('svg')
+}
+
+.sign{font-family:Wingdings3;font-size:15pt;font-weight:bold}
+.sign a{font-family:Wingdings3;text-decoration:none;font-size:15pt}
+.sign a:hover{font-family:Wingdings3;text-decoration:none}
+.cats_applications{width:28px;height:28px;background:url('/styles/layer_cake/images/apps.png') no-repeat center center}
+.cats_audiobooks{width:28px;height:28px;background:url('/styles/layer_cake/images/audiobook.png') no-repeat center center}
+.cats_comedy{width:28px;height:28px;background:url('/styles/layer_cake/images/comedy.png') no-repeat center center}
+.cats_ebooks{width:28px;height:28px;background:url('/styles/layer_cake/images/ebook.png') no-repeat center center}
+.cats_musicvideos{width:28px;height:28px;background:url('/styles/layer_cake/images/musicvideos.png') no-repeat center center}
+.cats_libblemixtapes{width:28px;height:28px;background:url('/styles/layer_cake/images/mixtapes.png') no-repeat center center}
+.cats_music{width:28px;height:28px;background:url('/styles/layer_cake/images/music.png') no-repeat center center}
+*{padding:0em;margin:0em}
+html{width:100%}
+body{width:100%;background-color:#E2E2E2;font-family:tahoma,helvetica,sans-serif;font-size:8pt;color:#000;min-width:870px}
+a{text-decoration:none;border:none;color:#444}
+a:hover{text-decoration:underline;color:#555}
+h1,h2,h3,h4{margin:5px 0px;font-weight:bold}
+h2{text-align:center;font-size:12pt}
+h4{font-size:8pt}
+p{margin:10px 5px}
+li{margin:5px 15px}
+input{padding:2px 3px}
+textarea{padding:2px 3px}
+img{border:none}
+.r00{color:#F00}
+.r01{color:#FF1300}
+.r02{color:#FF1300}
+.r03{color:#FF2600}
+.r04{color:#FF4C00}
+.r05{color:#FF5E00}
+.r06{color:#FF5E00}
+.r07{color:#FF7100}
+.r08{color:#FF9700}
+.r09{color:#FA0}
+.r10{color:#74C42E}
+.r20{color:#418B00}
+.r50{color:#418B00}
+.r99{color:#418B00}
+span.size1{font-size:0.75em}
+span.size2{font-size:1em}
+span.size3{font-size:1.25em}
+span.size4{font-size:1.5em}
+span.size5{font-size:1.75em}
+span.size6{font-size:2em}
+span.size7{font-size:2.25em}
+span.size8{font-size:2.5em}
+span.size9{font-size:2.75em}
+span.size10{font-size:3em}
+ul.thin{margin:0px 0px 0px 25px;padding:0px}
+ul.thin li{margin:0px 0px;padding:0px}
+
+#header {
+  width:100%;
+  padding:0px 0 0 0;
+  background:#CCC;
+}
+
+#content {
+  margin:auto;
+  margin-top:100px;
+  width:95%;
+  overflow:hidden;
+}
+
+#footer {
+  margin-top:40px;
+  width:100%;
+  text-align:center;
+  padding:1em 0;
+}
+
+#logo {
+  width:344px;
+  height:197px;
+  background:url('https://static.libble.me/styles/layer_cake/images/logo.png') no-repeat top left;
+  margin:0 auto;
+}
+
+#logo a {
+  font-size:0pt;
+  border:none;
+  width:344px;
+  height:197px;
+  display:block;
+}
+
+#logo a:hover{border:none}#menu{position:absolute;top:226px;width:100%;padding:0.6em 0;text-align:center;background-color:#666;font-size:10pt}#menu ul
+li{display:inline}
+#menu ul li
+a{padding:0.3em 1.0%;color:#ccc}
+#menu ul li
 a.active{background-color:#565656}#menu ul li a:hover{background-color:#565656;text-decoration:none}#userinfo{position:absolute;top:258px;background:#D7D7D7;color:#444;padding:4px
 0px;width:100%;text-align:center;font-size:8pt}#userinfo
 img{margin-top: -5px}#userinfo
