@@ -92,7 +92,7 @@ ul.thin li{margin:0px 0px;padding:0px}
 }
 
 #logo a:hover{border:none}
-#menu{position:absolute;top:226px;width:100%;padding:0.6em 0;text-align:center;background-color:#666;font-size:10pt}
+#menu{position:relative;top:226px;width:100%;padding:0.6em 0;text-align:center;background-color:#666;font-size:10pt}
 #menu ul li{display:inline}
 #menu ul li a{padding:0.3em 1.0%;color:#ccc}
 #menu ul li a.active{background-color:#565656}
