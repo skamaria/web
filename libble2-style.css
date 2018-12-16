@@ -167,7 +167,7 @@ a{display:block;height:124px;overflow:hidden}ul.collage_images
 img{height:124px;width:124px}#collage-images-container{padding:0px;margin-bottom:0px}#collage-images-container
 ul{margin:0px}body#collages
 #pageslinksdiv{margin-top:0px;padding-top:0px}#torrents h2:first-child{background-color:#d4d4d4;margin:0px
--20px -1px -20px;padding:20px;border-bottom:1px solid #c6c6c6;position:relative}.show_torrents_link{border:none;width:28px;height:28px;display:block}.show_torrents{background:url('/styles/july4v2/images/show.png') no-repeat center center}.hide_torrents{background:url('/styles/july4v2/images/hide.png') no-repeat center center}#torrents
+-20px -1px -20px;padding:20px;border-bottom:1px solid #c6c6c6;position:relative}.show_torrents_link{border:none;width:28px;height:28px;display:block}.show_torrents{background:url('https://static.libble.me/styles/july4v2/images/show.png') no-repeat center center}.hide_torrents{background:url('/styles/july4v2/images/hide.png') no-repeat center center}#torrents
 .filter_torrents{width:80%;margin:0
 auto;border:1px
 solid #565656;-moz-border-radius:7px;-webkit-border-radius:7px;border-radius:7px;margin-bottom:30px;padding:8px;background:#e0e0e0 url('/styles/july4v2/images/search.png') -30px -30px no-repeat}#torrents .filter_torrents
