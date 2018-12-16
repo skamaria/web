@@ -2,7 +2,7 @@
 url(https://static.libble.me/styles/custom/images/fonts/Wingdings3-webfont.woff) format('woff'),
 url(https://static.libble.me/styles/custom/images/fonts/Wingdings3-webfont.ttf)  format('truetype'),
 url(https://static.libble.me/styles/custom/images/fonts/Wingdings3-webfont.svg#svgWingdings3) format('svg')}.sign{font-family:Wingdings3;font-size:15pt;font-weight:bold}.sign
-a{font-family:Wingdings3;text-decoration:none;font-size:15pt}.sign a:hover{font-family:Wingdings3;text-decoration:none}body{background:#b5b5b5;font-family:Arial,sans-serif;font-size:0.75em;margin:0;background:#565656 url('https://i.imgur.com/2cMAfFC.jpg') top left repeat-x;width:100%}#wrapper{width:980px;margin:0px
+a{font-family:Wingdings3;text-decoration:none;font-size:15pt}.sign a:hover{font-family:Wingdings3;text-decoration:none}body{background:#b5b5b5;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:0.75em;margin:0;background:#565656 url('https://i.imgur.com/2cMAfFC.jpg') top left repeat-x;width:100%}#wrapper{width:980px;margin:0px
 auto;;background:#FFF url('https://i.imgur.com/2cMAfFC.jpg') top left repeat-x}#header{background-image:url('https://i.imgur.com/3oUl6OA.png');min-height:170px;position:relative;padding:0px
 0 20px 0;margin:0px
 0 0 0;z-index:2}#logo{height:138px;margin-top:0px;margin-left:-30px;width:215px;z-index:4;position:absolute;font-size:0px}#logo
