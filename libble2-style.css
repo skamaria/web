@@ -82,7 +82,7 @@ td{background-color:#e0e0e0}.rowb
 td{background-color:white}.colhead{background-color:#565656;color:#b5b5b5;font-weight:bold}.colhead_dark{background-color:#565656;color:#b5b5b5;font-weight:bold}.colhead_dark
 td{height:30px;vertical-align:bottom}table.forum_post{margin:10px
 0px}td.avatar{vertical-align:top;width:150px;padding:0px;margin:0px}table.forum_post
-td.body{width:700px;background:#e0e0e0 url('/styles/july4v2/images/forum_postbgspeech1.png') top left no-repeat;padding:20px
+td.body{width:700px;background:#e0e0e0 url('https://static.libble.me/styles/july4v2/images/forum_postbgspeech1.png') top left no-repeat;padding:20px
 20px 20px 40px}table .colhead a, #content table .colhead_dark
 a{color:#b5b5b5;font-weight:bold}table .colhead a:hover, #content table .colhead_dark a:hover{color:#b5b5b5}input{cursor:pointer;cursor:hand}input[type="text"]{cursor:text}input,select,textarea{font-family:Arial,sans-serif;font-size:1em;border:1px
 solid #9c9c9c;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}textarea{width:600px;height:200px}input,textarea{color:#BDBDBD;padding:3px;background:#ededed}select{padding:1px}input:focus, textarea:focus, #searchbars input:focus{border:1px
@@ -95,7 +95,7 @@ solid #fff;width:98%;margin-bottom:5px}span.size1{font-size:0.75em}span.size2{fo
 #shoutbox_controls_table blockquote,
 #irc_log_table
 blockquote{-moz-border-radius:11px;-webkit-border-radius:11px;border-radius:11px;border:1px
-dotted #565656;padding:6px;background:#CDDBFC url('/styles/july4v2/images/quote_bg.png') 0px -5px no-repeat}.forum_post
+dotted #565656;padding:6px;background:#CDDBFC url('https://static.libble.me/styles/july4v2/images/quote_bg.png') 0px -5px no-repeat}.forum_post
 ul{margin:5px
 0 0 0;padding:0}.forum_post
 li{margin:0
@@ -121,9 +121,9 @@ solid #dcdcdc;margin:0
 ul{list-style:none;list-style-type:none;list-style-position:inside}#news_center .poll ul
 li{padding-top:10px}.poll .graph
 span{display:block;height:19px;float:left}.poll .graph
-#left_poll{width:5px;background:url('/styles/july4v2/images/poll_left.png') top left no-repeat}.poll .graph
-#center_poll{background:url('/styles/july4v2/images/poll_middle.png') top left repeat-x}.poll .graph
-#right_poll{width:7px;background:url('/styles/july4v2/images/poll_right.png') top left no-repeat}#forum .poll
+#left_poll{width:5px;background:url('https://static.libble.me/styles/july4v2/images/poll_left.png') top left no-repeat}.poll .graph
+#center_poll{background:url('https://static.libble.me/styles/july4v2/images/poll_middle.png') top left repeat-x}.poll .graph
+#right_poll{width:7px;background:url('https://static.libble.me/styles/july4v2/images/poll_right.png') top left no-repeat}#forum .poll
 li{clear:both}#threadpoll .poll
 .graph{padding:0
 0 25px 0}#forum
@@ -133,8 +133,8 @@ h3{margin:15px
 0}#forums h3:first-child{margin:0
 0 15px 0}#forums
 .box{text-align:center}#forums
-.head{color:#575757;text-align:center;font-size:1.25em}.last_read{font-size:0pt;width:15px;height:15px;vertical-align:middle;background:url(/styles/july4v2/images/go_last_read.png) no-repeat center center;margin-left:5px}.last_read
-a{border:none;vertical-align:middle;width:100%;height:100%;display:block}.last_read a:hover{border:none}.unread_locked_sticky{background:url(/styles/july4v2/images/locked_sticky_unread.png) no-repeat center center;width:38px;height:38px}.read_locked_sticky{background:url(/styles/july4v2/images/locked_sticky_read.png) no-repeat center center;width:38px;height:38px}.read_sticky{background:url(/styles/july4v2/images/sticky_read.png) no-repeat center center;width:38px;height:38px}.unread_sticky{background:url(/styles/july4v2/images/sticky_unread.png) no-repeat center center;width:38px;height:38px}.unread_locked{background:url(/styles/july4v2/images/locked_unread.png) no-repeat center center;width:38px;height:38px}.read_locked{background:url(/styles/july4v2/images/locked_read.png) no-repeat center center;width:38px;height:38px}.unread{background:url(/styles/july4v2/images/unread.png) no-repeat center center;width:38px;height:38px}.read{background:url(/styles/july4v2/images/read.png) no-repeat center center;width:38px;height:38px}#forums a.permission_1, #forums
+.head{color:#575757;text-align:center;font-size:1.25em}.last_read{font-size:0pt;width:15px;height:15px;vertical-align:middle;background:url(https://static.libble.me/styles/july4v2/images/go_last_read.png) no-repeat center center;margin-left:5px}.last_read
+a{border:none;vertical-align:middle;width:100%;height:100%;display:block}.last_read a:hover{border:none}.unread_locked_sticky{background:url(https://static.libble.me/styles/july4v2/images/locked_sticky_unread.png) no-repeat center center;width:38px;height:38px}.read_locked_sticky{background:url(/styles/july4v2/images/locked_sticky_read.png) no-repeat center center;width:38px;height:38px}.read_sticky{background:url(https://static.libble.me/styles/july4v2/images/sticky_read.png) no-repeat center center;width:38px;height:38px}.unread_sticky{background:url(/styles/july4v2/images/sticky_unread.png) no-repeat center center;width:38px;height:38px}.unread_locked{background:url(https://static.libble.me/styles/july4v2/images/locked_unread.png) no-repeat center center;width:38px;height:38px}.read_locked{background:url(/styles/july4v2/images/locked_read.png) no-repeat center center;width:38px;height:38px}.unread{background:url(https://static.libble.me/styles/july4v2/images/unread.png) no-repeat center center;width:38px;height:38px}.read{background:url(https://static.libble.me/styles/july4v2/images/read.png) no-repeat center center;width:38px;height:38px}#forums a.permission_1, #forums
 .permission_1{color:#F00;font-weight:bold;font-size:1.38em}#forums a.permission_2, #forums
 .permission_2{color:#000;font-size:1em}#forums a.permission_3, #forums
 .permission_3{color:#90F;font-size:1.05em}#forums a.permission_4, #forums
@@ -153,7 +153,7 @@ a{border:none;vertical-align:middle;width:100%;height:100%;display:block}.last_r
 .permission_16{color:#00F;font-weight:bold;font-size:1.3em}#forums a.permission_22, #forums
 .permission_22{color:#900;font-size:1.25em}#forums a.permission_23, #forums
 .permission_23{color:#03F;font-size:1.3em}#requests
-.center{background:#ededed url('/styles/july4v2/images/request.png') no-repeat}#requests
+.center{background:#ededed url('https://static.libble.me/styles/july4v2/images/request.png') no-repeat}#requests
 .label{text-align:right;width:200px}#requests
 textarea{width:500px;overflow:auto}#wiki
 .linkbox{border:0}#wiki .sidebar
@@ -192,7 +192,7 @@ td{background-color:white}.torrent_table .group_torrent
 td{background-color:#e0e0e0}.torrent_table .pad
 td{padding:20px
 !important;border:1px
-solid #565656 !important;background:url('/styles/july4v2/images/download.png') 105% -20px no-repeat}.torrent_table .pad td
+solid #565656 !important;background:url('https://static.libble.me/styles/july4v2/images/download.png') 105% -20px no-repeat}.torrent_table .pad td
 td{border-left:0 !important;border-right:0 !important;background:none;padding:5px
 !important}#torrent_table tr.group_torrent td
 span{padding-left:72px}#torrent_table tr.group_torrent td span
@@ -208,24 +208,24 @@ box_albumart{width:200px}#torrents
 .label{text-align:right;width:200px}#torrents
 textarea{width:500px;overflow:auto}textarea#artistsimilar{width:180px}#AddArtists input, #AddArtists
 textarea{width:150px}#cat-selector{z-index:5;font-size:8pt;margin-left:350px;padding-top:5px;width:200px;color:#fff}ul#cat-selector li
-a{color:#b5b5b5}ul#cat-selector li a:hover{color:#FFF}.cats_applications{width:28px;height:28px;background:url('/styles/july4v2/images/apps.png') no-repeat center center}.cats_audiobooks{width:28px;height:28px;background:url('/styles/july4v2/images/audiobook.png') no-repeat center center}.cats_comedy{width:28px;height:28px;background:url('/styles/july4v2/images/comedy.png') no-repeat center center}.cats_ebooks{width:28px;height:28px;background:url('/styles/july4v2/images/ebook.png') no-repeat center center}.cats_musicvideos{width:28px;height:28px;background:url('/styles/july4v2/images/musicvideos.png') no-repeat center center}.cats_libblemixtapes{width:28px;height:28px;background:url('/styles/july4v2/images/mixtapes.png') no-repeat center center}.cats_music{width:28px;height:28px;background:url('/styles/july4v2/images/music.png') no-repeat center center}#watchlist
+a{color:#b5b5b5}ul#cat-selector li a:hover{color:#FFF}.cats_applications{width:28px;height:28px;background:url('https://static.libble.me/styles/july4v2/images/apps.png') no-repeat center center}.cats_audiobooks{width:28px;height:28px;background:url('https://static.libble.me/styles/july4v2/images/audiobook.png') no-repeat center center}.cats_comedy{width:28px;height:28px;background:url('https://static.libble.me/styles/july4v2/images/comedy.png') no-repeat center center}.cats_ebooks{width:28px;height:28px;background:url('https://static.libble.me/styles/july4v2/images/ebook.png') no-repeat center center}.cats_musicvideos{width:28px;height:28px;background:url('https://static.libble.me/styles/july4v2/images/musicvideos.png') no-repeat center center}.cats_libblemixtapes{width:28px;height:28px;background:url('https://static.libble.me/styles/july4v2/images/mixtapes.png') no-repeat center center}.cats_music{width:28px;height:28px;background:url('https://static.libble.me/styles/july4v2/images/music.png') no-repeat center center}#watchlist
 textarea{width:700px;overflow:auto}#tools table
 td{border:0;border-top:1px solid #565656;padding:5px;width:200px}.permission_head{width:400px;margin-left:auto;margin-right:auto}.permissions{width:930px;margin-left:auto;margin-right:auto}.permission_container{float:left;width:300px;padding:5px}.permission_container
 input{margin:0px
 3px 5px 0px;vertical-align:top}table#radio-tt{margin:0
 auto;border:1px
-solid #565656;padding:8px;background:#e0e0e0 url('/styles/july4v2/images/radio_tt.png') 130px 20px no-repeat}.djbooked{font-weight:bold;text-align:center;color:#F00;font-size:12px}.djnotbooked{text-align:center;font-size:12px}table#djlist{margin:0
+solid #565656;padding:8px;background:#e0e0e0 url('https://static.libble.me/styles/july4v2/images/radio_tt.png') 130px 20px no-repeat}.djbooked{font-weight:bold;text-align:center;color:#F00;font-size:12px}.djnotbooked{text-align:center;font-size:12px}table#djlist{margin:0
 auto;border:1px
-solid #565656;padding:8px;margin-bottom:5px;background:#e0e0e0 url('/styles/july4v2/images/radio_list.png') 760px -100px no-repeat}table#timetable{margin:0
+solid #565656;padding:8px;margin-bottom:5px;background:#e0e0e0 url('https://static.libble.me/styles/july4v2/images/radio_list.png') 760px -100px no-repeat}table#timetable{margin:0
 auto;border:1px
-solid #565656;padding:8px;margin-bottom:5px;background:#e0e0e0}.djprofile{margin-top:5px}.radio_request1{background-color:#BACBC8}.radio_request2{background-color:#CADCD9}.radio_request3{background-color:#ABBBEF}.radio_request4{background-color:#D1E4EC}.radio_request1_g{background:#BACBC8 url('/styles/july4v2/images/radio_request.png') 3px no-repeat;width:40px}.radio_request2_g{background:#CADCD9 url('/styles/july4v2/images/radio_shout.png') 3px no-repeat;width:40px}.radio_request3_g{background:#ABBBEF url('/styles/july4v2/images/radio_comp.png') 3px no-repeat;width:40px}.radio_request4_g{background:#D1E4EC url('/styles/july4v2/images/radio_other.png') 3px no-repeat;width:40px}#radio
+solid #565656;padding:8px;margin-bottom:5px;background:#e0e0e0}.djprofile{margin-top:5px}.radio_request1{background-color:#BACBC8}.radio_request2{background-color:#CADCD9}.radio_request3{background-color:#ABBBEF}.radio_request4{background-color:#D1E4EC}.radio_request1_g{background:#BACBC8 url('https://static.libble.me/styles/july4v2/images/radio_request.png') 3px no-repeat;width:40px}.radio_request2_g{background:#CADCD9 url('https://static.libble.me/styles/july4v2/images/radio_shout.png') 3px no-repeat;width:40px}.radio_request3_g{background:#ABBBEF url('https://static.libble.me/styles/july4v2/images/radio_comp.png') 3px no-repeat;width:40px}.radio_request4_g{background:#D1E4EC url('https://static.libble.me/styles/july4v2/images/radio_other.png') 3px no-repeat;width:40px}#radio
 textarea#djrequest{width:240px;height:80px;border:1px
 solid #565656;padding:5px;overflow:hidden}select#djrequest{border:1px
 solid #565656;width:130px;background-color:#ededed;color:#000}#user
 textarea{width:500px;overflow:auto}#user
 .label{text-align:right;width:180px}#inbox
 .vertical_space{width:620px;margin:0
-auto;padding:20px;background:transparent url('/styles/july4v2/images/message_bg.png') no-repeat}#inbox .box
+auto;padding:20px;background:transparent url('https://static.libble.me/styles/july4v2/images/message_bg.png') no-repeat}#inbox .box
 .body{width:600px;margin:30px
 auto 0 auto}#inbox form
 .box{width:100%;margin:0
@@ -269,31 +269,31 @@ tr{border:none}.line_new{color:green}.line_deleted{color:red}.line_moved{color:b
 span{float:none}.log_section
 span{float:none}.log_section{font-size:11px;line-height:15px}.log1{color:#03C}.log2{color:yellow}.log3{color:#0E88C6}.log4{font-weight:bold}.log5{text-decoration:underline}.good{font-weight:bold;color:green}.bad{font-weight:bold;color:red}.goodish{font-weight:bold;color:#35BF00}.badish{font-weight:bold;color:#E5B244}pre{overflow:auto}.hidden{display:none}.disable_grouping{display:none}form textarea, form
 input{max-width:100%}a.beta{font-weight:bold;color:#f00}.invalid,.warning,.error{color:#f00}div#AddArtists{position:relative}div#AddArtists
-a{position:absolute;right:0pt;bottom:0pt}.clear:after{content:".";display:block;height:0;clear:both;visibility:hidden}.rippy{z-index:25;background:transparent url('/rippy/msrippy.gif') no-repeat bottom center;display:block;position:fixed;color:black;text-align:center;width:190px;height:180px;bottom:0;right:0}span.rbt{display:block;padding:8px
-0 0;background:url('/rippy/rippy_top.gif') no-repeat top}span.rbm{display:block;background:url('/rippy/rippy_middle.gif') repeat bottom;padding:2px}span.rbb{display:block;padding:4px
-0px 18px;margin-bottom:5px;background:url('/rippy/rippy_bottom.gif') no-repeat bottom}.radioplaytop{background-color:#7f7f7f;padding-right:5px;padding-left:5px;padding-top:3px;margin-top:-12px}.radioplay{text-align:center}.picker_layer{z-index:1000;font-family:Arial,Helvetica,sans-serif;font-size:12px;text-decoration:none;background-color:#D6D6D6;border-width:1px;border-style:solid;border-color:#666;overflow:visible;height:auto;width:auto}#picker
+a{position:absolute;right:0pt;bottom:0pt}.clear:after{content:".";display:block;height:0;clear:both;visibility:hidden}.rippy{z-index:25;background:transparent url('https://static.libble.me/rippy/msrippy.gif') no-repeat bottom center;display:block;position:fixed;color:black;text-align:center;width:190px;height:180px;bottom:0;right:0}span.rbt{display:block;padding:8px
+0 0;background:url('https://static.libble.me/rippy/rippy_top.gif') no-repeat top}span.rbm{display:block;background:url('https://static.libble.me/rippy/rippy_middle.gif') repeat bottom;padding:2px}span.rbb{display:block;padding:4px
+0px 18px;margin-bottom:5px;background:url('https://static.libble.me/rippy/rippy_bottom.gif') no-repeat bottom}.radioplaytop{background-color:#7f7f7f;padding-right:5px;padding-left:5px;padding-top:3px;margin-top:-12px}.radioplay{text-align:center}.picker_layer{z-index:1000;font-family:Arial,Helvetica,sans-serif;font-size:12px;text-decoration:none;background-color:#D6D6D6;border-width:1px;border-style:solid;border-color:#666;overflow:visible;height:auto;width:auto}#picker
 td{padding:0px;margin:0px;border-width:0px;border-bottom-color:#000}#picker
 tr{padding:0px;margin:0px;border-width:0px}#picker
 table{padding:2px;margin:0px;border-width:0px}#picker
-input{margin:0px;border-width:0px;padding:0px}.picker_buttons{font-family:Arial,Helvetica,sans-serif;font-size:12px;background-color:#d4d0c8;border-style:solid;padding:1px;cursor:pointer;color:#000}.cell_color{cursor:pointer;width:9px;height:9px}.color_table{font-family:Arial,Helvetica,sans-serif;font-size:12px;text-decoration:none}.choosed_color_cell{border-style:solid;border-color:#000;border-width:1px}.default_color_btn{width:17px;height:17px;background-image:url(/styles/images/defaultcolor.jpg);background-repeat:no-repeat;background-position:center}.cleanTable{border:none !important;background-color:transparent !important}.new-subscriptions{font-weight:bold}#dhtmltooltip{position:absolute;width:150px;border:1px
+input{margin:0px;border-width:0px;padding:0px}.picker_buttons{font-family:Arial,Helvetica,sans-serif;font-size:12px;background-color:#d4d0c8;border-style:solid;padding:1px;cursor:pointer;color:#000}.cell_color{cursor:pointer;width:9px;height:9px}.color_table{font-family:Arial,Helvetica,sans-serif;font-size:12px;text-decoration:none}.choosed_color_cell{border-style:solid;border-color:#000;border-width:1px}.default_color_btn{width:17px;height:17px;background-image:url(https://static.libble.me/styles/images/defaultcolor.jpg);background-repeat:no-repeat;background-position:center}.cleanTable{border:none !important;background-color:transparent !important}.new-subscriptions{font-weight:bold}#dhtmltooltip{position:absolute;width:150px;border:1px
 solid black;font-family:Arial,Helvetica,sans-serif;font-size:11px;padding:2px;visibility:hidden;z-index:100;filter:alpha(opacity=80);-moz-opacity:0.8;-khtml-opacity:0.8;opacity:0.8}#manage_collage_table.ui-sortable
 .drag{cursor:n-resize}#manage_collage_table.ui-sortable .ui-sortable-helper.drag{cursor:grabbing;cursor:-moz-grabbing;cursor:-webkit-grabbing}#manage_collage_table .ui-sortable-helper td,
 #manage_collage_table .ui-sortable-placeholder{border:0}.drag_drop_save{padding:6px
 0;overflow:hidden}.headerSort{cursor:pointer}.headerSort
-span{background:url("/common/table-order.png") no-repeat scroll right -38px transparent;padding:0px
+span{background:url("https://static.libble.me/common/table-order.png") no-repeat scroll right -38px transparent;padding:0px
 20px 0 0}.headerSortDown
-span{background:url("/common/table-order.png") no-repeat scroll right  4px transparent}.headerSortUp
-span{background:url("/common/table-order.png") no-repeat scroll right  -79px transparent}div.spotify_main{max-width:500px;min-width:0;display:inline-block}.spotify_main table, .spotify_main tr, .spotify_main
+span{background:url("https://static.libble.me/common/table-order.png") no-repeat scroll right  4px transparent}.headerSortUp
+span{background:url("https://static.libble.me/common/table-order.png") no-repeat scroll right  -79px transparent}div.spotify_main{max-width:500px;min-width:0;display:inline-block}.spotify_main table, .spotify_main tr, .spotify_main
 td{border:none !important;background:transparent;padding:0px
 !important}.spotify_main
 table{display:inline-table;overflow:hidden;width:inherit;margin-left:0px !important;border-collapse:separate !important;border-spacing:0 !important;border:1px
-solid #60A801 !important}td.spotify_left{background-image:url(/common/bb-editor/spotify.png) !important;background-repeat:no-repeat !important;background-position:center !important;border-right:1px dotted #60A801 !important;cursor:pointer}td.spotify_right{border-left:1px dotted #60A801 !important;cursor:pointer;font-family:"Courier New",Courier,monospace;vertical-align:middle}td.spotify_right
+solid #60A801 !important}td.spotify_left{background-image:url(https://static.libble.me/common/bb-editor/spotify.png) !important;background-repeat:no-repeat !important;background-position:center !important;border-right:1px dotted #60A801 !important;cursor:pointer}td.spotify_right{border-left:1px dotted #60A801 !important;cursor:pointer;font-family:"Courier New",Courier,monospace;vertical-align:middle}td.spotify_right
 span.text{opacity:0.4;filter:alpha(opacity=40)}td.spotify_right.highlight,td.spotify_left.highlight{opacity:0.5;filter:alpha(opacity=50);background-color:#60A801 !important;color:white}td.spotify_left{width:16px;margin:0px;padding:0px
 5px !important}td.spotify_right{width:16px;padding:0px
 !important}td.spotify_center{margin:0px;padding:5px
 !important;text-align:left}div.spotify_widget{padding:5px
 0px 0px 0px !important}div.spotify_widget
-iframe{border:none;max-width:310px}#to-top{opacity:0.5;position:fixed;bottom:20px;right:20px;width:30px;height:30px;z-index:9999;background:url('/common/to-top.png') no-repeat 0 0;border-radius:5px}.to-top{display:inline-block;width:100%;height:100%}#to-top:hover{opacity:1}.invisible{visibility:hidden}.disabled{pointer-events:none;cursor:default;opacity:0.6}.selected
+iframe{border:none;max-width:310px}#to-top{opacity:0.5;position:fixed;bottom:20px;right:20px;width:30px;height:30px;z-index:9999;background:url('https://static.libble.me/common/to-top.png') no-repeat 0 0;border-radius:5px}.to-top{display:inline-block;width:100%;height:100%}#to-top:hover{opacity:1}.invisible{visibility:hidden}.disabled{pointer-events:none;cursor:default;opacity:0.6}.selected
 a{font-weight:bold;text-decoration:underline}@CHARSET "UTF-8";#updates
 .quote{display:block;margin:5px;padding-left:15px}#updates
 td{font-size:1.1em;padding:10px
