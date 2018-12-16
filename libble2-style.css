@@ -40,10 +40,10 @@ a.username{font-size:11pt;color:#000}ul#userinfo_username li a.username:hover{co
 0 0 0;text-align:center;margin:0;list-style:none}#searchbars ul
 li{display:inline}#searchbars
 form{display:inline}#searchbars
-input{background:transparent url('/styles/july4v2/images/searchbox.png') top left no-repeat;border:0
+input{background:#FFFFFF url('/styles/july4v2/images/searchbox.png') top left no-repeat;border:0
 !important;height:19px !important;width:132px !important;margin:0
 !important;padding:4px
-0px 0px 20px !important}#searchbars input:focus{background:#FF0000 url('/styles/july4v2/images/searchbox.png') 0 -23px no-repeat}#alerts{z-index:5;position:absolute;top:3px;height:0px;width:540px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;left:190px}.alertbar{color:#FFF;float:left;font-size:0.95em;font-weight:bold;margin-left:0px;text-align:center;padding-top:1px;padding-right:0px;padding-bottom:1px;padding-left:0px;width:265px;margin-bottom:2px;margin-right:2px;background-color:#565656}.alertbar a, .alertbar a:visited, .alertbar a:active{color:#FFF;text-decoration:none}.alertbar a:hover{color:#FF0;text-decoration:none}#staffbar{width:980px;position:absolute;z-index:5;margin-top:-100px;padding:4px
+0px 0px 20px !important}#searchbars input:focus{background:#FFFFFF url('/styles/july4v2/images/searchbox.png') 0 -23px no-repeat}#alerts{z-index:5;position:absolute;top:3px;height:0px;width:540px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;left:190px}.alertbar{color:#FFF;float:left;font-size:0.95em;font-weight:bold;margin-left:0px;text-align:center;padding-top:1px;padding-right:0px;padding-bottom:1px;padding-left:0px;width:265px;margin-bottom:2px;margin-right:2px;background-color:#565656}.alertbar a, .alertbar a:visited, .alertbar a:active{color:#FFF;text-decoration:none}.alertbar a:hover{color:#FF0;text-decoration:none}#staffbar{width:980px;position:absolute;z-index:5;margin-top:-100px;padding:4px
 0px;font-size:10pt;color:#FFF;text-align:center}#staffbar a, #staffbar a:visited, #staffbar a:active{padding:1px
 3px;color:#FFF}#staffbar a:hover{background-color:#064E96;color:#FF0;text-decoration:none;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.error_message{position:absolute;z-index:5;width:910px;margin-top:-10px;padding:3px
 0px 3px 0px;text-align:center;color:#F00;font-weight:bold}.save_message{position:absolute;z-index:5;width:910px;margin-top:-10px;padding:3px
