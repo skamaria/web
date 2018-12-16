@@ -153,7 +153,7 @@ a{border:none;vertical-align:middle;width:100%;height:100%;display:block}.last_r
 .permission_16{color:#00F;font-weight:bold;font-size:1.3em}#forums a.permission_22, #forums
 .permission_22{color:#900;font-size:1.25em}#forums a.permission_23, #forums
 .permission_23{color:#03F;font-size:1.3em}#requests
-.center{background:#ededed url('https://static.libble.me/styles/july4v2/images/request.png') no-repeat}#requests
+.center{background:#ededed url('/styles/july4v2/images/request.png') no-repeat}#requests
 .label{text-align:right;width:200px}#requests
 textarea{width:500px;overflow:auto}#wiki
 .linkbox{border:0}#wiki .sidebar
