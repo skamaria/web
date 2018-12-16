@@ -17,7 +17,7 @@ a{color:#000;background-color:#b5b5b5}ul#userinfo_major,ul#userinfo_minor,ul#use
 li{display:inline;font-weight:bold;padding-left:16px}ul#userinfo_minor{width:880px}ul#userinfo_minor{z-index:3;text-align:right;margin-top:64px;padding-top:1px;margin-left:150px;padding-bottom:1px;width:750px;white-space:nowrap}ul#userinfo_minor
 a{margin-right:-5px;padding-left:5px;padding-right:5px;color:#FFF}ul#userinfo_minor a:hover{background-color:#b5b5b5;color:#000}ul#userinfo_major{font-size:10pt;font-weight:bold;z-index:2;width:230px;margin-top:83px;margin-left:720px;padding-left:0px;padding-bottom:5px;padding-top:2px;text-align:right}ul#userinfo_major li
 a{color:#000}ul#userinfo_major li a:hover{color:#565656}ul#userinfo_stats
-li{display:block}ul#userinfo_stats{z-index:5;margin-top:30px;text-align:right;width:170px;padding-top:0px;margin-left:770px;padding-left:0px;padding-right:0px;padding-bottom:0px;height:15px}ul#userinfo_stats
+li{display:block}ul#userinfo_stats{z-index:5;font-variant:all-small-caps;margin-top:30px;text-align:right;width:170px;padding-top:0px;margin-left:770px;padding-left:0px;padding-right:0px;padding-bottom:0px;height:15px}ul#userinfo_stats
 li{font-weight:normal;color:#000}ul#userinfo_stats li
 a{color:#000}ul#userinfo_stats li a:hover{color:#565656}#userinfo_stats
 .r00{color:#F00}#userinfo_stats
